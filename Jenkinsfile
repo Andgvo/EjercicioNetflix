@@ -22,7 +22,7 @@ pipeline {
                         //sh 'docker push andgvo/zuul:latest'
                     }
                 }
-            }2
+            }
         }
 
         stage('Eureka') {
